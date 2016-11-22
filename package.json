@@ -1,0 +1,33 @@
+{
+  "name": "jestdeme",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Link.react-test.js",
+  "dependencies": {
+    "react": "^15.4.0",
+    "react-dom": "^15.4.0"
+  },
+  "devDependencies": {
+    "babel-jest": "^17.0.2",
+    "babel-polyfill": "^6.16.0",
+    "babel-preset-es2015": "^6.18.0",
+    "babel-preset-react": "^6.16.0",
+    "enzyme": "^2.6.0",
+    "jest": "^17.0.3",
+    "react-addons-test-utils": "^15.4.0",
+    "react-test-renderer": "^15.4.0"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zxymgl/JestDemo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zxymgl/JestDemo/issues"
+  },
+  "homepage": "https://github.com/zxymgl/JestDemo#readme"
+}
